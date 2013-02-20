@@ -1,0 +1,11 @@
+{
+    "id": "shadowjs@neokraft.net",
+    "name": "shadow",
+    "fullName": "shadow",
+    "description": "Power of PhantomJS for Gecko",
+    "author": "Olivier Meunier <om@neokraft.net>",
+    "version": "0.1",
+    "license": "MPL 2.0",
+
+    "dependencies": ["container", "webpage", "webserver"]
+}

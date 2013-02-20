@@ -1,0 +1,9 @@
+[submodule "packages/jetpack-container"]
+	path = packages/jetpack-container
+	url = git://github.com/olivier-m/jetpack-container.git
+[submodule "packages/jetpack-webserver"]
+	path = packages/jetpack-webserver
+	url = git://github.com/olivier-m/jetpack-webserver.git
+[submodule "packages/jetpack-webpage"]
+	path = packages/jetpack-webpage
+	url = git://github.com/olivier-m/jetpack-webpage.git
